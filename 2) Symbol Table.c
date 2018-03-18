@@ -139,7 +139,7 @@ void main(){
 		}
 		
 	}
-	int memory = 1000;
+	int memory = 998;
 	for(i=0;i<identifiers_index;i++)
 	{
 		
